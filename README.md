@@ -1,2 +1,4 @@
 # pytorch-playground
-playground for pytorch corse and exercises
+Playground for pytorch course and exercises
+
+#WIP
